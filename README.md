@@ -45,9 +45,13 @@ NO LONGER OPEN SOURCE: If you are concerned about the safety of the program you 
 
 ### Installation
 
-Premade EXE
-1. Download and run the program
-2. [Optional] add to startup folder
+1. Click the gofile link below.
+2. Run the install script
+3. [Optional] Set the install path to the startup folder so it runs on startup
+4. Done!
+
+[GOFILE LINK]
+https://gofile.io/d/oL0ZA1
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
