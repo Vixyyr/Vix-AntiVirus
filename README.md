@@ -31,6 +31,8 @@
 
 Im a young developer making their own reliable anti virus using the virus total API, Note scan may be inaccurate so dont take everything as a virus as long as you understand what that program does or how it works
 
+NO LONGER OPEN SOURCE: If you are concerned about the safety of the program you can request a look over of the source but will NOT be provided full access to it, The project will also not get a paid version for a longggggg time, It will remain free just not open source
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -46,13 +48,6 @@ Im a young developer making their own reliable anti virus using the virus total 
 Premade EXE
 1. Download and run the program
 2. [Optional] add to startup folder
-
-Source code
-1. Download python (newest)
-2. Install pyinstaller
-3. [install command] pip install pyinstaller
-4. open CMD in your source folder and run the following command
-5. [Compiler] pyinstaller --onefile --icon=NONE main.py
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
